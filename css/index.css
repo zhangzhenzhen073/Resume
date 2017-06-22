@@ -73,8 +73,8 @@ html,body,.swiper-container,.swiper-slide{
     height:.94rem;
     left:.17rem;
     top:4.67rem;
-    -webkit-animation: bounceInUp 1s linear .8s both;
-    animation: bounceInUp 1s linear .8s both;
+    -webkit-animation: zoomIn 1s linear .2s both;
+    animation: zoomIn 1s linear .2s both;
 }
 #page01 .img05{
     width:1.73rem;
@@ -94,8 +94,8 @@ html,body,.swiper-container,.swiper-slide{
     height:.71rem;
     right:.45rem;
     top:5.90rem;
-    -webkit-animation: bounceInUp 1s linear .8s both;
-    animation: bounceInUp 1s linear .8s both;
+    -webkit-animation: bounceInRight 1s linear 1.5s both;
+    animation: bounceInRight 1s linear 1.5s both;
 }
 
 #page01 .img06{
