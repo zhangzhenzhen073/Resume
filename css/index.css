@@ -39,7 +39,7 @@ html,body,.swiper-container,.swiper-slide{
 #page01 img:nth-child(3){
     width:6.60rem;
     height:6.87rem;
-    bottom:1rem;
+    bottom:0.5rem;
     left:.3rem;
     -webkit-animation: bounceInUp 1s linear .8s both;
     animation: bounceInUp 1s linear .8s both;
