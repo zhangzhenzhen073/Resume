@@ -37,10 +37,10 @@ html,body,.swiper-container,.swiper-slide{
     animation: rotateIn 1s linear .4s both;
 }
 #page01 img:nth-child(3){
-    width:6.60rem;
-    height:6.87rem;
-    bottom:0.5rem;
-    left:.3rem;
+    width:5.41rem;
+    height:5.95rem;
+    bottom:0.6rem;
+    left:1.1rem;
     -webkit-animation: bounceInUp 1s linear .8s both;
     animation: bounceInUp 1s linear .8s both;
 }
