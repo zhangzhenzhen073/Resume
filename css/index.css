@@ -420,23 +420,23 @@ html,body,.swiper-container,.swiper-slide{
     width:.64rem;
     height:.47rem;
     left:5.32rem;
-    top:4.51rem;
+    top:8.28rem;
     -webkit-animation: flipInY 1.5s linear 1s both;
     animation: flipInY 1.5s linear 1s both;
 }
 #page04 img:nth-child(9){
-    width:2.26rem;
-    height:.64rem;
-    left:.70rem;
-    top:8.21rem;
+    width:1.10rem;
+    height:.46rem;
+    left:1.28rem;
+    top:8.28rem;
     -webkit-animation: flipInY 1.5s linear 1s both;
     animation: flipInY 1.5s linear 1s both;
 }
 #page04 img:nth-child(10){
-    width:1.53rem;
-    height:.49rem;
-    left:4.82rem;
-    top:8.21rem;
+    width:1.89rem;
+    height:.61rem;
+    left:4.65rem;
+    top:4.5rem;
     -webkit-animation: flipInY 1.5s linear 1s both;
     animation: flipInY 1.5s linear 1s both;
 }
